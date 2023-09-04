@@ -1,0 +1,1 @@
+The example performs a nonlinear static deformation analysis on a kresling origami structure, considering various factors such as external forces, nodal displacement, and string contraction. This serves to demonstrate that OriTsgEFA is capable of handling a wide range of static conditions.

@@ -1,0 +1,1 @@
+Static analysis of a plate-based Origami-Tensegrity structure subjected to external forces, nodal displacements, and string rest-length change. This serves as an example to demonstrate that OriTsgEFA can handle a wide range of static conditions.

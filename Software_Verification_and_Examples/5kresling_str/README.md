@@ -1,0 +1,1 @@
+For examining axial deformation in a kresling structure with strings, a static analysis is conducted. Should you wish to re-execute or explore other examples, proceed to run the file 'main_kresling_str.m'.

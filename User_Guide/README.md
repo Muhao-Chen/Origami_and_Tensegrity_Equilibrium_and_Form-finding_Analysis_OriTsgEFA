@@ -1,0 +1,1 @@
+We recommend that new users take a look at the attached PDF. Your input and discussion are highly valued.
