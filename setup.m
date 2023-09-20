@@ -25,7 +25,7 @@ addpath(genpath('User_Guide'));
 addpath(genpath('Videos'));
 
 % Add JOSS paper
-addpath(genpath('JOSS_Paper'));
+addpath(genpath('JOSS_paper'));
 
 %% Display Welcome Message and User Guide Instructions
 % Uncomment the next lines if you'd like to automatically open the User Guide PDF.
