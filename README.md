@@ -1,4 +1,3 @@
-test: do not pass the request
 # Origami and Tensegrity Equilibrium and Form-finding Analysis (OriTsgEFA)
 
 ### **Welcome to OriTsgEFA Software!**
